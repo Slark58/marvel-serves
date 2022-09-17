@@ -2,6 +2,10 @@ import './singleComic.scss';
 import xMen from '../../resources/img/x-men.png';
 
 const SingleComic = () => {
+
+    
+
+
     return (
         <div className="single-comic">
             <img src={xMen} alt="x-men" className="single-comic__img"/>
